@@ -6,7 +6,7 @@
 
 # Allison Kleber
 
-Estudante de engenharia de produção, com formação em Técnico em Logística, Técnico em Manutenção e Técnico em Eletrotécnica.
+Estudante de engenharia de produção e Data Science, com formação em Técnico em Logística, Técnico em Manutenção e Técnico em Eletrotécnica.
 
 Com experiência em criação de aplicativo no Power Apps (Microsoft) e análise de dados com as ferramentas Power BI e Tableau.
 
