@@ -10,7 +10,7 @@ Estudante de engenharia de produção e Data Science, com formação em Técnico
 
 Com experiência em criação de aplicativo no Power Apps (Microsoft) e análise de dados com as ferramentas Power BI e Tableau.
 
-Apaixonado por resolver problemas através do Data Science.  
+Apaixonado em resolver problemas através do Data Science.  
 
 **Background in:** Python, Power Apps, Power Bi, Tableau
 
