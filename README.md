@@ -14,13 +14,5 @@ Apaixonado em resolver problemas através do Data Science.
 
 **Background in:** Python, Power Apps, Power Bi, Tableau
 
-**Links:**
-* 
-* 
-* 
-
-
 ## Projetos:
-
-
----
+Analisando os Dados do Airbnb Havaí: https://bit.ly/3F3g8LS
